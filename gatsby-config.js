@@ -8,7 +8,7 @@ module.exports = {
     description: `It's time to be JAVA OCP.`,
     siteUrl: `https://learnsomejava.netlify.app/`,
     social: {
-      twitter: `dbthings`,
+      twitter: `dbthingspl`,
     },
   },
   plugins: [
